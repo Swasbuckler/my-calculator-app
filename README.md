@@ -7,7 +7,7 @@ The application is hosted on GitHub Pages and can be accessed here: https://swas
 
 ## What have I Achieved and Learnt through this Project
 
-Although this project was at the beginner level and I had followed very closely to the code presented by Web Dev Simplified, it had allowed me gain a good understanding on React's Reducer through making a viable calculator application.\
+Although this project was at a beginner level and I had followed very closely to the code presented by Web Dev Simplified, it had allowed me gain a good understanding on React's Reducer through making a viable calculator application.\
 I hope to take this knowledge and apply it in future React projects.
 
 ## Screenshots of the Application
